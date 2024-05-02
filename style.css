@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: aqua;
+    height: 70px;
+    width: 100%;
+}
